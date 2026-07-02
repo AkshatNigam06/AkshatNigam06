@@ -28,10 +28,12 @@
 
 <div align="center">
 
-| Project                                   | Description                                                                                                                                                           | Repository                                                                                     |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 🍕 **Pizza Sales SQL Analysis**           | An end-to-end SQL project analyzing pizza sales data to uncover KPIs, sales trends, customer behavior, and business insights using advanced SQL queries.              | **[View Project](https://github.com/AkshatNigam06/Pizzas_sales_sql)**                          |
-| 🛍️ **Vrinda Store Sales Data Analytics** | A complete Data Analytics project featuring data cleaning, dashboard creation, and business insights using Excel and Power BI to support data-driven decision making. | **[View Project](https://github.com/AkshatNigam06/Vrinda-Store-Sales-Data-Analytics-Project)** |
+| Project                                    | Description                                                                                                                                                                                                    | Repository                                                                                     |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 🍕 **Pizza Sales SQL Analysis**            | An end-to-end SQL project analyzing pizza sales data to uncover KPIs, sales trends, customer behavior, and business insights using advanced SQL queries.                                                       | **[View Project](https://github.com/AkshatNigam06/Pizzas_sales_sql)**                          |
+| 🛍️ **Vrinda Store Sales Data Analytics**  | A complete Data Analytics project featuring data cleaning, dashboard creation, and business insights using Excel and Power BI to support data-driven decision making.                                          | **[View Project](https://github.com/AkshatNigam06/Vrinda-Store-Sales-Data-Analytics-Project)** |
+| 💻 **Computer Accessories Sales Analysis** | A Data Analytics project focused on analyzing computer accessories sales using Power Query, Excel, and interactive dashboards to identify sales trends, product performance, and actionable business insights. | **[View Project](https://github.com/AkshatNigam06/Computer-Accessories-Sales-Analysis)**       |
+
 
 </div>
 
@@ -58,4 +60,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=AkshatNigam06&icon=3&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
