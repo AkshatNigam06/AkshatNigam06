@@ -42,10 +42,10 @@
 
 | Project | Description | Repository |
 |----------|-------------|------------|
-| 🍕 Pizza Sales SQL Analysis | End-to-end SQL project analyzing sales trends, customer behavior, and revenue insights using advanced SQL queries. | [View Project](link) |
-| 🛒 Retail Sales SQL Analysis | SQL project focused on customer purchasing patterns, category performance, and business insights using real-world retail data. | [View Project](link) |
-| 🛍️ Vrinda Store Sales Analytics | Data analytics project involving data cleaning, dashboard creation, and business insights using Excel and Power BI. | [View Project](link) |
-| 📊 Computer Accessories Sales Dashboard | Interactive Excel dashboard analyzing sales performance, regional trends, and product insights. | [View Project](link) |
+| 🍕 Pizza Sales SQL Analysis | End-to-end SQL project analyzing sales trends, customer behavior, and revenue insights using advanced SQL queries. | [View Project](https://github.com/AkshatNigam06/-Pizza-Sales-SQL-Analysis.git) |
+| 🛒 Retail Sales SQL Analysis | SQL project focused on customer purchasing patterns, category performance, and business insights using real-world retail data. | [View Project](https://github.com/AkshatNigam06/Retail-Sales-SQL-Analysis.git) |
+| 🛍️ Vrinda Store Sales Analytics | Data analytics project involving data cleaning, dashboard creation, and business insights using Excel and Power BI. | [View Project](https://github.com/AkshatNigam06/Vrinda-Store-Sales-Data-Analytics-Project.git) |
+| 📊 Computer Accessories Sales Dashboard | Interactive Excel dashboard analyzing sales performance, regional trends, and product insights. | [View Project](https://github.com/AkshatNigam06/-Computer-Accessories-Excel-Dashboard.git) |
 | 🪔 Diwali Sales Python Analysis | Python-based data analysis project exploring customer behavior, sales trends, product performance, and business insights using NumPy, Pandas, Matplotlib, and Seaborn. | [View Project](https://github.com/AkshatNigam06/Diwali-Sales-Python-Analysis) |
 
 
