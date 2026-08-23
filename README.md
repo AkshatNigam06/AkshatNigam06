@@ -46,6 +46,7 @@
 | 🛒 Retail Sales SQL Analysis | SQL project focused on customer purchasing patterns, category performance, and business insights using real-world retail data. | [View Project](link) |
 | 🛍️ Vrinda Store Sales Analytics | Data analytics project involving data cleaning, dashboard creation, and business insights using Excel and Power BI. | [View Project](link) |
 | 📊 Computer Accessories Sales Dashboard | Interactive Excel dashboard analyzing sales performance, regional trends, and product insights. | [View Project](link) |
+| 🪔 Diwali Sales Python Analysis | Python-based data analysis project exploring customer behavior, sales trends, product performance, and business insights using NumPy, Pandas, Matplotlib, and Seaborn. | [View Project](link) |
 
 
 </div>
