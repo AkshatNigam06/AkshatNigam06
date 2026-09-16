@@ -47,7 +47,8 @@
 | 🛍️ Vrinda Store Sales Analytics | Data analytics project involving data cleaning, dashboard creation, and business insights using Excel and Power BI. | [View Project](https://github.com/AkshatNigam06/Vrinda-Store-Sales-Data-Analytics-Project.git) |
 | 📊 Computer Accessories Sales Dashboard | Interactive Excel dashboard analyzing sales performance, regional trends, and product insights. | [View Project](https://github.com/AkshatNigam06/-Computer-Accessories-Excel-Dashboard.git) |
 | 🪔 Diwali Sales Python Analysis | Python-based data analysis project exploring customer behavior, sales trends, product performance, and business insights using NumPy, Pandas, Matplotlib, and Seaborn. | [View Project](https://github.com/AkshatNigam06/Diwali-Sales-Python-Analysis) |
-
+| 🛒 Blinkit Sales Dashboard | Interactive Power BI dashboard analyzing Blinkit sales performance, product trends, and key business insights. | [View Project](https://github.com/AkshatNigam06/Power-BI-Projects-/tree/main/Blinkit-Sales-Dashboard) |
+| 🛍️ E-Commerce Sales Dashboard | Interactive Power BI dashboard providing insights into e-commerce sales, product performance, and business trends. | [View Project](https://github.com/AkshatNigam06/Power-BI-Projects-/tree/main/E-Commerce-Sales-Dashboard) |
 
 </div>
 
