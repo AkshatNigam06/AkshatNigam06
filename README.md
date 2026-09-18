@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm **Akshat Nigam**
 
-### 📊 Aspiring Data Analyst | 💻 DSA Enthusiast | 🚀 C++ Programmer from India
+### 📊  Data Analyst | 💻 DSA Enthusiast | 🚀 C++ Programmer from India
 📧 Reach me at: akshatnigamdelhi9@gmail.com
 * 🔭 **Currently Working On:** Data Analytics projects, SQL case studies, and Power BI dashboards.
 * 🌱 **Currently Learning:** Advanced SQL, Python for Data Analysis, Power BI, and Data Structures & Algorithms in C++.
