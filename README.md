@@ -41,16 +41,15 @@
 ## 🚀 Featured Projects
 
 | Project | Description | Repository |
-|----------|-------------|------------|
-| 🍕 Pizza Sales SQL Analysis | End-to-end SQL project analyzing sales trends, customer behavior, and revenue insights using advanced SQL queries. | [View Project](https://github.com/AkshatNigam06/-Pizza-Sales-SQL-Analysis.git) |
-| 🛒 Retail Sales SQL Analysis | SQL project focused on customer purchasing patterns, category performance, and business insights using real-world retail data. | [View Project](https://github.com/AkshatNigam06/Retail-Sales-SQL-Analysis.git) |
-| 🛍️ Vrinda Store Sales Analytics | Data analytics project involving data cleaning, dashboard creation, and business insights using Excel and Power BI. | [View Project](https://github.com/AkshatNigam06/Vrinda-Store-Sales-Data-Analytics-Project.git) |
-| 📊 Computer Accessories Sales Dashboard | Interactive Excel dashboard analyzing sales performance, regional trends, and product insights. | [View Project](https://github.com/AkshatNigam06/-Computer-Accessories-Excel-Dashboard.git) |
-| 🪔 Diwali Sales Python Analysis | Python-based data analysis project exploring customer behavior, sales trends, product performance, and business insights using NumPy, Pandas, Matplotlib, and Seaborn. | [View Project](https://github.com/AkshatNigam06/Diwali-Sales-Python-Analysis) |
-| 🛒 Blinkit Sales Dashboard | Interactive Power BI dashboard analyzing Blinkit sales performance, product trends, and key business insights. | [View Project](https://github.com/AkshatNigam06/Power-BI-Projects-/tree/main/Blinkit-Sales-Dashboard) |
-| 🛍️ E-Commerce Sales Dashboard | Interactive Power BI dashboard providing insights into e-commerce sales, product performance, and business trends. | [View Project](https://github.com/AkshatNigam06/Power-BI-Projects-/tree/main/E-Commerce-Sales-Dashboard) |
-
-</div>
+|---|---|---|
+| 🚗 Used Car Price Prediction | Machine learning project comparing Linear Regression, Lasso, Decision Tree, and Random Forest to predict used car prices. Deployed with Streamlit. | [View Project](https://github.com/AkshatNigam06/Used-Car-Price-Prediction) · [Live Demo](https://used-car-price-prediction-hftmbquztczbn2kf8jsfva.streamlit.app/) |
+| 🍕 Pizza Sales SQL Analysis | SQL project analyzing pizza sales, revenue trends, order patterns, and product performance using SQL queries. | [View Project](https://github.com/AkshatNigam06/-Pizza-Sales-SQL-Analysis) |
+| 🛒 Retail Sales SQL Analysis | SQL project exploring customer purchasing patterns, category performance, and retail business insights. | [View Project](https://github.com/AkshatNigam06/Retail-Sales-SQL-Analysis) |
+| 🛍️ Vrinda Store Sales Analytics | Data analytics project involving data cleaning, dashboard creation, and business insights using Excel and Power BI. | [View Project](https://github.com/AkshatNigam06/Vrinda-Store-Sales-Data-Analytics-Project) |
+| 📊 Computer Accessories Sales Dashboard | Interactive Excel dashboard analyzing sales performance, regional trends, and product insights. | [View Project](https://github.com/AkshatNigam06/-Computer-Accessories-Excel-Dashboard) |
+| 🪔 Diwali Sales Python Analysis | Python project analyzing customer behavior, sales trends, and product performance using Pandas, NumPy, Matplotlib, and Seaborn. | [View Project](https://github.com/AkshatNigam06/Diwali-Sales-Python-Analysis) |
+| 🛒 Blinkit Sales Dashboard | Interactive Power BI dashboard exploring sales performance, product trends, and key business insights. | [View Project](https://github.com/AkshatNigam06/Power-BI-Projects-/tree/main/Blinkit-Sales-Dashboard) |
+| 🛍️ E-Commerce Sales Dashboard | Power BI dashboard providing insights into e-commerce sales, product performance, and business trends. | [View Project](https://github.com/AkshatNigam06/Power-BI-Projects-/tree/main/E-Commerce-Sales-Dashboard) |
 
 ---
 
